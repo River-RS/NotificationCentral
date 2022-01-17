@@ -20,7 +20,7 @@ screen and will float at top layer of screen, meaning a user can always have acc
 notifications. The window will be slightly transperent, so that the user can still see most of their work 
 space while the notification central window is open.
 
-Link to project pages: https://n3rdgirl-365.github.io/
+Link to project pages: https://River-RS.github.io 
 
 
 Code Resources:
