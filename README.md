@@ -20,3 +20,4 @@ screen and will float at top layer of screen, meaning a user can always have acc
 notifications. The window will be slightly transperent, so that the user can still see most of their work 
 space while the notification central window is open.
 
+Github Pages Documentation Site: https://river-rs.github.io/
